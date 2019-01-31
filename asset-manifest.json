@@ -1,11 +1,11 @@
 {
-  "main.js": "/react-gh-pages/static/js/main.d789a99d.chunk.js",
-  "main.js.map": "/react-gh-pages/static/js/main.d789a99d.chunk.js.map",
-  "static/js/1.ac5061da.chunk.js": "/react-gh-pages/static/js/1.ac5061da.chunk.js",
-  "static/js/1.ac5061da.chunk.js.map": "/react-gh-pages/static/js/1.ac5061da.chunk.js.map",
-  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.346eb3ee.js",
-  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.346eb3ee.js.map",
-  "index.html": "/react-gh-pages/index.html",
-  "precache-manifest.b429aeecf7552515c111132aba9b3932.js": "/react-gh-pages/precache-manifest.b429aeecf7552515c111132aba9b3932.js",
-  "service-worker.js": "/react-gh-pages/service-worker.js"
+  "main.js": "/test/static/js/main.d789a99d.chunk.js",
+  "main.js.map": "/test/static/js/main.d789a99d.chunk.js.map",
+  "static/js/1.ac5061da.chunk.js": "/test/static/js/1.ac5061da.chunk.js",
+  "static/js/1.ac5061da.chunk.js.map": "/test/static/js/1.ac5061da.chunk.js.map",
+  "runtime~main.js": "/test/static/js/runtime~main.5ad1e219.js",
+  "runtime~main.js.map": "/test/static/js/runtime~main.5ad1e219.js.map",
+  "index.html": "/test/index.html",
+  "precache-manifest.e854ab2cf4e366ce772851d563d099e3.js": "/test/precache-manifest.e854ab2cf4e366ce772851d563d099e3.js",
+  "service-worker.js": "/test/service-worker.js"
 }
