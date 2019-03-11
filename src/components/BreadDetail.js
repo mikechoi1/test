@@ -3,7 +3,14 @@ import { connect } from 'react-redux';
 
 const SongDetail = ({ bread }) => {
     if(!bread) {
-        return <div>Select a bread</div>
+        return <div>Select a bread or my resume</div>
+    }
+    if(bread.price === '0') {
+        return(
+            <div>
+                <a href="resume.pdf" download="MichaelChoiResume.pdf">Download a copy of my resume</a>
+            </div>
+        );
     }
     return (
         <div>

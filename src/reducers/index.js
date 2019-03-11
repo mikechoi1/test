@@ -2,6 +2,7 @@ import { combineReducers } from 'redux';
 
 const breadReducer = () => {
     return [
+        {name: 'resume', price: '0'},
         {name: 'bagel', price: '1.00'},
         {name: 'sliced loaf', price: '3.00'},
         {name: 'brioche', price: '1.00'},
